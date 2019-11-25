@@ -1,0 +1,9 @@
+{
+  "name": "@aurora-kit/grid",
+  "version": "0.1.0",
+  "description": "Aurora Grid",
+  "main": "index.js",
+  "repository": "git@github.com:aurora-kit/grid.git",
+  "author": "Lionel Tzatzkin <elrumordelaluz@hotmail.com>",
+  "license": "MIT"
+}
